@@ -17,7 +17,7 @@ $ yarn run dev
 - Vuex
 - vue-router
 - Webpack 3
-- TypeScript 2
+- TypeScript 3
 - karma
 - sass
 

@@ -1,10 +1,10 @@
 import Vue from 'vue';
 import { Component, Watch } from 'vue-property-decorator';
-import { Link } from './Link';
+import { Link } from './link';
 import { Logger } from '../../../utils/log';
 
 @Component({
-  template: require('./navbar.html')
+  template: require('./Navbar.html')
 })
 export class Navbar extends Vue {
 
