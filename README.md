@@ -1,11 +1,11 @@
 # vue-vuex-boilerplate
 
-Vue 2, Vuex, Webpack 3 and Typescript 2 starter boilerplate.
+Vue 2, Vuex, Webpack 3 and Typescript 3 starter boilerplate.
 
 ## Usage
 ```
 $ npm install -g vue-cli
-$ vue init bamboo-c/vue-vuex-boilerplate my-project
+$ vue init aburai/vue-vuex-boilerplate my-project
 $ cd my-project
 $ yarn install
 $ yarn run dev
@@ -21,7 +21,7 @@ $ yarn run dev
 - karma
 - sass
 
-## File stlucture
+## File structure
 
 ```
 template
